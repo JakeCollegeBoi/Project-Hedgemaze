@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Template/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Minigame.unity
     guid: bdad4b5b1bc2794489509df2e65fd910
+  - enabled: 1
+    path: Assets/Scenes/Project Hedgemaze.unity
+    guid: e7b0e13ce7539c3468e6e3e19523b036
   m_configObjects: {}
